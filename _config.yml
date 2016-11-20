@@ -7,7 +7,7 @@ url:
 cdn_url: 7u2t01.com1.z0.glb.clouddn.com
 lsi: false
 safe: true
-timezone: Asia/Shanghai
+timezone: Asia/xian
 auto: false 
 
 paginate: 8
@@ -21,15 +21,15 @@ kramdown:
   use_coderay: false
 
 JB :
-  IMAGE_PATH : http://coolshell.info/images
+  IMAGE_PATH : miaomiaomiao
 
 # presonal config
-domain: http://coolshell.info
-title: Lippi-浮生志
+domain: http://miaomiaomiao
+title: Yshxdm-gullu
 description: Draw my life with code
-author: Lippi.OuYang
-email: ouyanglip@gmail.com
-github: LippiOuYang
+author: yshxdm
+email: yshxdm@miao.com
+github: yshxdm
 
 config:
   js_dir:
